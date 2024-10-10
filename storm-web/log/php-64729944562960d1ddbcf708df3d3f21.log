@@ -1,0 +1,79 @@
+[Wed Oct  9 22:08:25 2024] PHP 8.2.12 Development Server (http://localhost:2525) started
+[Wed Oct  9 22:08:30 2024] [::1]:40272 Accepted
+[Wed Oct  9 22:08:30 2024] [::1]:40272 [302]: GET /
+[Wed Oct  9 22:08:30 2024] [::1]:40272 Closing
+[Wed Oct  9 22:08:30 2024] [::1]:40276 Accepted
+[Wed Oct  9 22:08:30 2024] [::1]:40276 [200]: GET /login.php
+[Wed Oct  9 22:08:30 2024] [::1]:40276 Closing
+[Wed Oct  9 22:08:30 2024] [::1]:40278 Accepted
+[Wed Oct  9 22:08:30 2024] [::1]:40280 Accepted
+[Wed Oct  9 22:08:30 2024] [::1]:40278 [200]: GET /assets/css/bootstrap.min.css
+[Wed Oct  9 22:08:30 2024] [::1]:40278 Closing
+[Wed Oct  9 22:08:30 2024] [::1]:40280 [200]: GET /assets/css/style.css
+[Wed Oct  9 22:08:30 2024] [::1]:40280 Closing
+[Wed Oct  9 22:08:30 2024] [::1]:32986 Accepted
+[Wed Oct  9 22:08:30 2024] [::1]:32986 [404]: GET /favicon.ico - No such file or directory
+[Wed Oct  9 22:08:30 2024] [::1]:32986 Closing
+[Wed Oct  9 22:08:35 2024] [::1]:32990 Accepted
+[Wed Oct  9 22:08:35 2024] [::1]:32990 [200]: POST /login.php
+[Wed Oct  9 22:08:35 2024] [::1]:32990 Closing
+[Wed Oct  9 22:08:35 2024] [::1]:33006 Accepted
+[Wed Oct  9 22:08:35 2024] [::1]:33006 [200]: GET /assets/css/bootstrap.min.css
+[Wed Oct  9 22:08:35 2024] [::1]:33006 Closing
+[Wed Oct  9 22:08:35 2024] [::1]:33012 Accepted
+[Wed Oct  9 22:08:35 2024] [::1]:33012 [200]: GET /assets/css/style.css
+[Wed Oct  9 22:08:35 2024] [::1]:33012 Closing
+[Wed Oct  9 22:08:38 2024] [::1]:33028 Accepted
+[Wed Oct  9 22:08:38 2024] [::1]:33028 [200]: POST /login.php
+[Wed Oct  9 22:08:38 2024] [::1]:33028 Closing
+[Wed Oct  9 22:08:38 2024] [::1]:33042 Accepted
+[Wed Oct  9 22:08:38 2024] [::1]:33058 Accepted
+[Wed Oct  9 22:08:38 2024] [::1]:33042 [200]: GET /assets/css/bootstrap.min.css
+[Wed Oct  9 22:08:38 2024] [::1]:33042 Closing
+[Wed Oct  9 22:08:38 2024] [::1]:33058 [200]: GET /assets/css/style.css
+[Wed Oct  9 22:08:38 2024] [::1]:33058 Closing
+[Wed Oct  9 22:09:13 2024] [::1]:35394 Accepted
+[Wed Oct  9 22:09:13 2024] [::1]:35394 [200]: POST /login.php
+[Wed Oct  9 22:09:13 2024] [::1]:35394 Closing
+[Wed Oct  9 22:09:14 2024] [::1]:35400 Accepted
+[Wed Oct  9 22:09:14 2024] [::1]:35416 Accepted
+[Wed Oct  9 22:09:14 2024] [::1]:35400 [200]: GET /assets/css/bootstrap.min.css
+[Wed Oct  9 22:09:14 2024] [::1]:35400 Closing
+[Wed Oct  9 22:09:14 2024] [::1]:35416 [200]: GET /assets/css/style.css
+[Wed Oct  9 22:09:14 2024] [::1]:35416 Closing
+[Wed Oct  9 22:09:14 2024] [::1]:35424 Accepted
+[Wed Oct  9 22:09:14 2024] [::1]:35424 [200]: GET /panel.php
+[Wed Oct  9 22:09:14 2024] [::1]:35424 Closing
+[Wed Oct  9 22:09:14 2024] [::1]:35434 Accepted
+[Wed Oct  9 22:09:14 2024] [::1]:35434 [200]: GET /assets/css/bootstrap.min.css
+[Wed Oct  9 22:09:14 2024] [::1]:35434 Closing
+[Wed Oct  9 22:09:14 2024] [::1]:35442 Accepted
+[Wed Oct  9 22:09:14 2024] [::1]:35458 Accepted
+[Wed Oct  9 22:09:14 2024] [::1]:35472 Accepted
+[Wed Oct  9 22:09:14 2024] [::1]:35482 Accepted
+[Wed Oct  9 22:09:14 2024] [::1]:35494 Accepted
+[Wed Oct  9 22:09:14 2024] [::1]:35442 [200]: GET /assets/css/light-theme.min.css
+[Wed Oct  9 22:09:14 2024] [::1]:35458 [200]: GET /assets/js/jquery.min.js
+[Wed Oct  9 22:09:14 2024] [::1]:35472 [200]: GET /assets/js/script.js
+[Wed Oct  9 22:09:14 2024] [::1]:35442 Closing
+[Wed Oct  9 22:09:14 2024] [::1]:35458 Closing
+[Wed Oct  9 22:09:14 2024] [::1]:35472 Closing
+[Wed Oct  9 22:09:14 2024] [::1]:35482 [200]: GET /assets/js/sweetalert2.min.js
+[Wed Oct  9 22:09:14 2024] [::1]:35482 Closing
+[Wed Oct  9 22:09:14 2024] [::1]:35494 [200]: GET /assets/js/growl-notification.min.js
+[Wed Oct  9 22:09:14 2024] [::1]:35494 Closing
+[Wed Oct  9 22:09:14 2024] [::1]:35510 Accepted
+[Wed Oct  9 22:09:14 2024] [::1]:35510 [200]: GET /Settings.json
+[Wed Oct  9 22:09:14 2024] [::1]:35510 Closing
+[Wed Oct  9 22:09:14 2024] [::1]:35524 Accepted
+[Wed Oct  9 22:09:14 2024] [::1]:35524 [200]: POST /list_templates.php
+[Wed Oct  9 22:09:14 2024] [::1]:35524 Closing
+[Wed Oct  9 22:09:17 2024] [::1]:35528 Accepted
+[Wed Oct  9 22:09:17 2024] [::1]:35528 [200]: POST /receiver.php
+[Wed Oct  9 22:09:17 2024] [::1]:35528 Closing
+[Wed Oct  9 22:09:19 2024] [::1]:35534 Accepted
+[Wed Oct  9 22:09:19 2024] [::1]:35534 [200]: POST /receiver.php
+[Wed Oct  9 22:09:19 2024] [::1]:35534 Closing
+[Wed Oct  9 22:09:21 2024] [::1]:47142 Accepted
+[Wed Oct  9 22:09:21 2024] [::1]:47142 [200]: POST /receiver.php
+[Wed Oct  9 22:09:21 2024] [::1]:47142 Closing
